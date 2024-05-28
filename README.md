@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Azure AI
 - 💞️ I’m looking to collaborate on Azure AI
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am boring
+- ⚡ Fun fact: I am really really boring
 
 <!---
 jayeshambekar65/jayeshambekar65 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
